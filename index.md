@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/GAOYUEtianc/gaoyue.github.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+I'm a Thesis-Based Master student in Computing Science Department of UAlberta. My research interests include differential privacy, machine learning and reinforcement learning. I enjoy working on theoretical topics, and I'm good at grasping abstract concepts. 
+
 Here are my projects.
 
 ## 2016 Mathematical Contest in Modeling  
@@ -11,3 +13,6 @@ Here are my projects.
 This project is finished by a group of 3 students within 96 hours, my contributions include participating modeling and summarizing our ideas (writing paper). Our solution was selected as Meritorious Winner (Top 8%).
 
 [Link is here](https://github.com/GAOYUEtianc/2016MCM)
+
+## 2017 Mathematical Contest in Modeling  
+
