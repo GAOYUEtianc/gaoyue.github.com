@@ -19,4 +19,11 @@ This project is finished by a group of 3 students within 96 hours, my contributi
 
 This project is finished by a group of 3 students within 96 hours, my contributions include participating modeling and summarizing our ideas (writing paper). Our solution discussed a possible solution to the large traffic flow problem in Seattle highway by analyzing in detail the traffic flow in peak traffic volume, where self-driving, cooperating cars are mainly considered and policy changes are suggested. The whole system is simulated by C++ program. 
 
-[Link is here](https://github.com/GAOYUEtianc/2016MCM)
+[Link is here](https://github.com/GAOYUEtianc/2017-CUHK-MCM)
+
+## Finddy
+
+This project is a part of course CSCI3100 (Software Engineering). The project is aimed to design an activity planning and sharing platform that arranges meals, board games and movies with friends for Hong Kong students. The name of the project is Finddy, which means find-your-buddy. The platform is web accessible and the project includes actual implementation of the design. It's finished by a group of 5 students, my contributions include finishing half of the front-end pages, participating merging front-end and back-end.
+
+[Link is here](https://github.com/RERTJ/Finddy)
+
