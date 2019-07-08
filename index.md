@@ -23,7 +23,17 @@ This project is finished by a group of 3 students within 96 hours, my contributi
 
 ## Finddy
 
-This project is a part of course CSCI3100 (Software Engineering). The project is aimed to design an activity planning and sharing platform that arranges meals, board games and movies with friends for Hong Kong students. The name of the project is Finddy, which means find-your-buddy. The platform is web accessible and the project includes actual implementation of the design. It's finished by a group of 5 students, my contributions include finishing half of the front-end pages, participating merging front-end and back-end.
+This project is a part of course CSCI3100 (Software Engineering) in CUHK. The project is aimed to design an activity planning and sharing platform that arranges meals, board games and movies with friends for Hong Kong students. The name of the project is Finddy, which means find-your-buddy. The platform is web accessible and the project includes actual implementation of the design. It's finished by a group of 5 students, my contributions include finishing half of the front-end pages, participating merging front-end and back-end.
 
 [Link is here](https://github.com/RERTJ/Finddy)
 
+## Clustering Problem
+
+It's 
+
+## GOMOKU Game
+
+This individual project is a part of course CMPUT670 (Combinatorial Game Theory) in University of Alberta.
+It's a five-in-row game program built by Python, player acts as black stone, AI acts as white stone. AI adopts a value network.
+
+[Link is here](https://github.com/GAOYUEtianc/GOMOKU_Game)
