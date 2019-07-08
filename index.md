@@ -8,11 +8,15 @@ I'm a Thesis-Based Master student in Computing Science Department of UAlberta. M
 
 Here are my projects.
 
-## 2016 Mathematical Contest in Modeling  
+## 2016 Mathematical Contest in Modeling  (Problem A)
 
 This project is finished by a group of 3 students within 96 hours, my contributions include participating modeling and summarizing our ideas (writing paper). Our solution was selected as Meritorious Winner (Top 8%).
 
 [Link is here](https://github.com/GAOYUEtianc/2016MCM)
 
-## 2017 Mathematical Contest in Modeling  
+## 2017 Mathematical Contest in Modeling  (Problem C)
+### Key Words : Cellular Automation; Self-driving and cooperating car; Computer simulation; Optimization
 
+This project is finished by a group of 3 students within 96 hours, my contributions include participating modeling and summarizing our ideas (writing paper). Our solution discussed a possible solution to the large traffic flow problem in Seattle highway by analyzing in detail the traffic flow in peak traffic volume, where self-driving, cooperating cars are mainly considered and policy changes are suggested. The whole system is simulated by C++ program. 
+
+[Link is here](https://github.com/GAOYUEtianc/2016MCM)
