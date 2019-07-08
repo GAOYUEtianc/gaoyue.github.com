@@ -1,9 +1,5 @@
 # Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/GAOYUEtianc/gaoyue.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 I'm a Thesis-Based Master student in Computing Science Department of UAlberta. My research interests include differential privacy, machine learning and reinforcement learning. I enjoy working on theoretical topics, and I'm good at grasping abstract concepts. 
 
 Here are my projects.
