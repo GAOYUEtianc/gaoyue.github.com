@@ -29,11 +29,13 @@ This project is a part of course CSCI3100 (Software Engineering) in CUHK. The pr
 
 ## Clustering Problem
 
-It's 
+This is an individual project on clustering problems. I had the honor of being supervised by professor Anthony So in 2017 summer. During this research, I analysed and compared 5 categories of clustering algorithms.
+
+[Link is here](https://github.com/GAOYUEtianc/Clustering)
 
 ## GOMOKU Game
 
 This individual project is a part of course CMPUT670 (Combinatorial Game Theory) in University of Alberta.
 It's a five-in-row game program built by Python, player acts as black stone, AI acts as white stone. AI adopts a value network.
 
-[Link is here](https://github.com/GAOYUEtianc/GOMOKU_Game)
+[Link is here](https://github.com/GAOYUEtianc/GOMOKU_game)
